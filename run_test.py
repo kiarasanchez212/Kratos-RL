@@ -629,3 +629,5 @@ print('total reward for random action ', trajs_test['est_reward_random'].sum())
 # print('total reward for sarsa ', trajs2_pd_test['est_reward_sarsa'].sum())
 # print('total reward for qlearning ', trajs2_pd_test['est_reward_qlearning'].sum())
 # print('total reward for random action ', trajs2_pd_test['est_reward_random'].sum())
+
+#%%
